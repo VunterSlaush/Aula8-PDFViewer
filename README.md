@@ -4,6 +4,8 @@ Visor de PDF para la Pizarra de Aula 8
 Instrucciones de Uso: 
 
 # 1.- Importar el .jar que se encuentra en este repositorio
+
+  Aqui se ve como importarlo en Android Studio:
   https://sintaxispragmatica.wordpress.com/2013/07/18/anadir-librerias-jar-en-androidstudio/
   
 # 2.- Copiar el Archivo PDFImageView.java 
