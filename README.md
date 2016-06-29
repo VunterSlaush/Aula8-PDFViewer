@@ -29,7 +29,7 @@ Instrucciones de Uso:
   instancia.zoomOut() // retroceder el Zoom
   ```
 
-Colaboradores: Johans Cedeño, Osner Sanchez, Rover Gonzalez
+Colaboradores: Johans Cedeño, Osner Sanchez, Rover Gonzalez :+1:
 
 
 
