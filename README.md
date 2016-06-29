@@ -16,15 +16,15 @@ Instrucciones de Uso:
   
 # Para Moverse Entre Paginas y Hacer Zoom
   ```
-  Instancia.nextPage(); // Pagina Siguiente
+  instancia.nextPage(); // Pagina Siguiente
   
-  Instancia.prevPage()// Pagina Anterior
+  instancia.prevPage()// Pagina Anterior
   
-  Instancia.gotoPage(int NumeroPagina) // ir a un Numero de Pagina
+  instancia.gotoPage(int NumeroPagina) // ir a un Numero de Pagina
   
-  Instancia.zoomIn() // Hacer Zoom
+  instancia.zoomIn() // Hacer Zoom
   
-  Instancia.zoomOut() // retroceder el Zoom
+  instancia.zoomOut() // retroceder el Zoom
   ```
 
 Colaboradores: Johans Cedeño, Osner Sanchez, Rover Gonzalez
