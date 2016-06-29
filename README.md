@@ -27,6 +27,8 @@ Instrucciones de Uso:
   instancia.zoomIn() // Hacer Zoom
   
   instancia.zoomOut() // retroceder el Zoom
+  
+  instancia.mover(int porcentajeX, int porcentajeY); para moverse con el zoom como si fuera un rectangulo dentro de otro .. 
   ```
 
 Colaboradores: Johans Cedeño, Osner Sanchez, Rover Gonzalez :+1:
