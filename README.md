@@ -9,13 +9,13 @@ Instrucciones de Uso:
 # 2.- Copiar el Archivo PDFImageView.java 
 
 # Para Instanciar el Visor de PDF es necesario un ImageView en el Layout del Activity en el que se vaya a usar
-
+  ```
   PDFImageView instancia = new PDFImageView(String DireccionArchivo, ImageView imageView);
-  
+  ```
   esto Instanciara el Visor y lo pondra en la Primera Pagina del Archivo seleccionado.
   
 # Para Moverse Entre Paginas y Hacer Zoom
-  
+  ```
   Instancia.nextPage(); // Pagina Siguiente
   
   Instancia.prevPage()// Pagina Anterior
@@ -25,7 +25,7 @@ Instrucciones de Uso:
   Instancia.zoomIn() // Hacer Zoom
   
   Instancia.zoomOut() // retroceder el Zoom
-  
+  ```
 
 Colaboradores: Johans Cedeño, Osner Sanchez, Rover Gonzalez
 
